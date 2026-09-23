@@ -1,8 +1,8 @@
-## 👥 การแบ่งโมดูลและหน้าที่ของสมาชิกในทีม (Task Allocation)
+## 👥 รายชื่อสมาชิกและการแบ่งหน้าที่ในทีม (Team Allocation)
 
-| สมาชิกในทีม / บทบาท | โมดูล / ฟังก์ชันที่รับผิดชอบ |
+| รายชื่อสมาชิก | บทบาทและหน้าที่ความรับผิดชอบ |
 | :--- | :--- |
-| **1. Project Manager / Scrum Master** | วางโครงสร้าง Repository บน GitHub และดูแล Git Workflow |
-| **2. UI/UX Designer & Analyst** | ออกแบบและพัฒนาหน้าเว็บส่วนแสดงผล (Frontend UI) |
-| **3. Full-Stack Developer** | พัฒนาส่วนยืนยันตัวตน SSO, API และฐานข้อมูล (Backend) |
-| **4. QA / Tester** | เขียนเอกสาร README.md, ทดสอบระบบ และบันทึก Test Cases |
+| **นายวรภพ สุวรรณโณ** | ระบุและวิเคราะห์ปัญหาของระบบ (Problem Identification) |
+| **นายภูชนะ ทองปิ่น** | รวบรวมข้อมูลและข้อกำหนดระบบ (Information & Requirements Gathering) |
+| **นายธวัชชัย รักจันทึก** | จัดทำสื่อและสไลด์นำเสนอโปรเจกต์ (Presentation & Design) |
+| **นายณัฐสิทธิ์ ขวัญคุ้ม** | สรุปปัญหาและจัดทำเอกสารรายงาน (Problem Summary & Documentation) |
